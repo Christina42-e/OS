@@ -1,0 +1,7 @@
+Current working directory: C:\Users\win\Desktop\Cristina\20janos
+Disk usage:
+Total: 118.67 GB
+Used: 51.05 GB
+Free: 67.63 GB
+System Information:
+ 
